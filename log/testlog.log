@@ -1,0 +1,256 @@
+2022-01-11 13:38:04,211 - nopcommerce -INFO - User is sent
+2022-01-11 13:38:04,407 - nopcommerce -INFO - password is sent
+2022-01-11 13:38:08,200 - nopcommerce -INFO - loginclicked
+2022-01-11 13:38:14,815 - nopcommerce -INFO - Test passed
+2022-01-11 13:42:48,127 - hi -INFO - User is sent
+2022-01-11 13:42:48,284 - hi -INFO - password is sent
+2022-01-11 13:42:52,784 - hi -INFO - loginclicked
+2022-01-11 13:42:59,592 - hi -INFO - Test passed
+2022-01-11 15:36:48,564 - hi -INFO - User is sent
+2022-01-11 15:36:48,718 - hi -INFO - password is sent
+2022-01-11 15:36:55,142 - hi -INFO - loginclicked
+2022-01-11 15:37:03,717 - hi -INFO - Test passed
+2022-01-11 15:53:20,987 - hi -INFO - User is sent
+2022-01-11 15:53:21,159 - hi -INFO - password is sent
+2022-01-11 15:53:28,430 - hi -INFO - loginclicked
+2022-01-11 15:53:36,246 - hi -INFO - Test passed
+2022-01-11 16:06:49,786 - hi -INFO - User is sent
+2022-01-11 16:06:49,945 - hi -INFO - password is sent
+2022-01-11 16:06:58,222 - hi -INFO - loginclicked
+2022-01-11 16:07:06,375 - hi -INFO - Test passed
+2022-01-11 16:10:30,733 - hi -INFO - User is sent
+2022-01-11 16:10:30,863 - hi -INFO - password is sent
+2022-01-11 16:10:42,667 - hi -INFO - loginclicked
+2022-01-11 16:13:38,569 - hi -INFO - User is sent
+2022-01-11 16:13:38,704 - hi -INFO - password is sent
+2022-01-11 16:13:44,930 - hi -INFO - loginclicked
+2022-01-11 16:13:53,491 - hi -INFO - Test passed
+2022-01-11 16:17:20,281 - hi -INFO - User is sent
+2022-01-11 16:17:20,332 - hi -INFO - password is sent
+2022-01-11 16:17:25,198 - hi -INFO - loginclicked
+2022-01-11 16:17:33,426 - hi -INFO - Test passed
+2022-01-11 20:10:41,310 - hi -INFO - User is sent
+2022-01-11 20:10:41,466 - hi -INFO - password is sent
+2022-01-11 20:10:48,128 - hi -INFO - loginclicked
+2022-01-11 20:10:55,014 - hi -INFO - Test passed
+2022-01-11 20:11:18,745 - hi -INFO - User is sent
+2022-01-11 20:11:18,811 - hi -INFO - password is sent
+2022-01-11 20:11:24,928 - hi -INFO - loginclicked
+2022-01-11 20:11:33,027 - hi -INFO - Test passed
+2022-01-11 20:12:10,647 - hi -INFO - User is sent
+2022-01-11 20:12:10,811 - hi -INFO - password is sent
+2022-01-11 20:12:21,300 - hi -INFO - loginclicked
+2022-01-11 20:12:26,602 - hi -INFO - Test fail
+2022-01-11 20:12:45,569 - hi -INFO - User is sent
+2022-01-11 20:12:45,631 - hi -INFO - password is sent
+2022-01-11 20:12:50,531 - hi -INFO - loginclicked
+2022-01-11 20:12:55,715 - hi -INFO - Test fail
+2022-01-11 20:15:17,449 - hi -INFO - User is sent
+2022-01-11 20:15:17,609 - hi -INFO - password is sent
+2022-01-11 20:15:24,758 - hi -INFO - loginclicked
+2022-01-11 20:15:29,973 - hi -INFO - Test fail
+2022-01-11 20:15:47,489 - hi -INFO - User is sent
+2022-01-11 20:15:47,551 - hi -INFO - password is sent
+2022-01-11 20:15:52,795 - hi -INFO - loginclicked
+2022-01-11 20:15:57,920 - hi -INFO - Test fail
+2022-01-11 22:58:41,670 - hi -INFO - User is sent
+2022-01-11 22:58:41,817 - hi -INFO - password is sent
+2022-01-11 22:58:51,491 - hi -INFO - loginclicked
+2022-01-11 22:58:56,714 - hi -INFO - Test fail
+2022-01-11 22:59:13,978 - hi -INFO - User is sent
+2022-01-11 22:59:14,037 - hi -INFO - password is sent
+2022-01-11 22:59:19,855 - hi -INFO - loginclicked
+2022-01-11 22:59:25,027 - hi -INFO - Test fail
+2022-01-11 23:12:22,129 - hi -INFO - User is sent
+2022-01-11 23:12:22,301 - hi -INFO - password is sent
+2022-01-11 23:12:28,286 - hi -INFO - loginclicked
+2022-01-11 23:12:33,527 - hi -INFO - Test fail
+2022-01-11 23:12:50,123 - hi -INFO - User is sent
+2022-01-11 23:12:50,167 - hi -INFO - password is sent
+2022-01-11 23:12:53,800 - hi -INFO - loginclicked
+2022-01-11 23:12:58,987 - hi -INFO - Test fail
+2022-01-11 23:17:39,364 - hi -INFO - User is sent
+2022-01-11 23:17:39,499 - hi -INFO - password is sent
+2022-01-11 23:17:53,101 - hi -INFO - loginclicked
+2022-01-11 23:17:58,333 - hi -INFO - Test fail
+2022-01-11 23:18:17,252 - hi -INFO - User is sent
+2022-01-11 23:18:17,322 - hi -INFO - password is sent
+2022-01-11 23:18:21,170 - hi -INFO - loginclicked
+2022-01-11 23:18:26,323 - hi -INFO - Test fail
+2022-01-11 23:22:05,411 - hi -INFO - User is sent
+2022-01-11 23:22:05,597 - hi -INFO - password is sent
+2022-01-11 23:22:09,115 - hi -INFO - loginclicked
+2022-01-11 23:22:14,297 - hi -INFO - Test fail
+2022-01-11 23:22:32,415 - hi -INFO - User is sent
+2022-01-11 23:22:32,496 - hi -INFO - password is sent
+2022-01-11 23:22:35,980 - hi -INFO - loginclicked
+2022-01-11 23:22:41,197 - hi -INFO - Test fail
+2022-01-12 12:39:53,754 - hi -INFO - User is sent
+2022-01-12 12:39:54,032 - hi -INFO - password is sent
+2022-01-12 12:40:01,268 - hi -INFO - loginclicked
+2022-01-12 12:40:06,506 - hi -INFO - Test fail
+2022-01-12 12:46:32,173 - hi -INFO - User is sent
+2022-01-12 12:46:32,424 - hi -INFO - password is sent
+2022-01-12 12:46:40,294 - hi -INFO - loginclicked
+2022-01-12 12:46:45,497 - hi -INFO - Test fail
+2022-01-12 12:53:39,819 - hi -INFO - User is sent
+2022-01-12 12:53:40,089 - hi -INFO - password is sent
+2022-01-12 12:53:44,458 - hi -INFO - loginclicked
+2022-01-12 12:53:49,637 - hi -INFO - Test fail
+2022-01-12 12:56:50,917 - hi -INFO - User is sent
+2022-01-12 12:56:51,105 - hi -INFO - password is sent
+2022-01-12 12:56:59,177 - hi -INFO - loginclicked
+2022-01-12 12:57:04,366 - hi -INFO - Test fail
+2022-01-12 13:03:45,432 - hi -INFO - User is sent
+2022-01-12 13:03:45,892 - hi -INFO - password is sent
+2022-01-12 13:03:52,336 - hi -INFO - loginclicked
+2022-01-12 13:03:57,565 - hi -INFO - Test fail
+2022-01-12 13:12:07,263 - hi -INFO - User is sent
+2022-01-12 13:12:07,483 - hi -INFO - password is sent
+2022-01-12 13:12:12,999 - hi -INFO - loginclicked
+2022-01-12 13:12:18,213 - hi -INFO - Test fail
+2022-01-12 13:14:26,830 - hi -INFO - User is sent
+2022-01-12 13:14:27,043 - hi -INFO - password is sent
+2022-01-12 13:14:33,350 - hi -INFO - loginclicked
+2022-01-12 13:14:38,529 - hi -INFO - Test fail
+2022-01-12 13:16:42,780 - hi -INFO - User is sent
+2022-01-12 13:16:42,971 - hi -INFO - password is sent
+2022-01-12 13:16:50,214 - hi -INFO - loginclicked
+2022-01-12 13:16:55,416 - hi -INFO - Test fail
+2022-01-12 13:18:31,272 - hi -INFO - User is sent
+2022-01-12 13:18:31,460 - hi -INFO - password is sent
+2022-01-12 13:18:35,410 - hi -INFO - loginclicked
+2022-01-12 13:18:40,618 - hi -INFO - Test fail
+2022-01-13 13:05:41,691 - hi -INFO - User is sent
+2022-01-13 13:05:41,879 - hi -INFO - password is sent
+2022-01-13 13:05:48,805 - hi -INFO - loginclicked
+2022-01-13 13:05:53,985 - hi -INFO - Test fail
+2022-01-13 13:11:39,468 - hi -INFO - User is sent
+2022-01-13 13:11:39,546 - hi -INFO - password is sent
+2022-01-13 13:11:42,022 - hi -INFO - loginclicked
+2022-01-13 13:11:47,237 - hi -INFO - Test fail
+2022-01-13 13:31:48,083 - hi -INFO - User is sent
+2022-01-13 13:31:48,268 - hi -INFO - password is sent
+2022-01-13 13:31:53,556 - hi -INFO - loginclicked
+2022-01-13 13:31:58,772 - hi -INFO - Test fail
+2022-01-13 13:40:50,243 - hi -INFO - User is sent
+2022-01-13 13:40:50,421 - hi -INFO - password is sent
+2022-01-13 13:41:05,519 - hi -INFO - loginclicked
+2022-01-13 13:41:10,699 - hi -INFO - Test fail
+2022-01-13 13:46:42,285 - hi -INFO - User is sent
+2022-01-13 13:46:42,390 - hi -INFO - password is sent
+2022-01-13 13:46:44,684 - hi -INFO - loginclicked
+2022-01-13 13:46:49,884 - hi -INFO - Test fail
+2022-01-13 14:09:58,134 - hi -INFO - User is sent
+2022-01-13 14:09:58,225 - hi -INFO - password is sent
+2022-01-13 14:10:03,047 - hi -INFO - loginclicked
+2022-01-13 14:11:36,355 - hi -INFO - User is sent
+2022-01-13 14:11:36,435 - hi -INFO - password is sent
+2022-01-13 14:11:39,245 - hi -INFO - loginclicked
+2022-01-13 14:14:10,450 - hi -INFO - User is sent
+2022-01-13 14:14:10,532 - hi -INFO - password is sent
+2022-01-13 14:14:13,925 - hi -INFO - loginclicked
+2022-01-13 18:14:12,687 - hi -INFO - User is sent
+2022-01-13 18:14:12,761 - hi -INFO - password is sent
+2022-01-13 18:14:18,030 - hi -INFO - loginclicked
+2022-01-13 18:14:18,108 - hi -INFO - User is sent
+2022-01-13 18:14:18,159 - hi -INFO - password is sent
+2022-01-13 18:14:18,401 - hi -INFO - loginclicked
+2022-01-13 18:14:23,122 - hi -INFO - Test fail
+2022-01-13 18:18:24,003 - hi -INFO - User is sent
+2022-01-13 18:18:24,165 - hi -INFO - password is sent
+2022-01-13 18:18:28,326 - hi -INFO - loginclicked
+2022-01-13 18:18:33,509 - hi -INFO - Test fail
+2022-01-13 18:18:54,710 - hi -INFO - User is sent
+2022-01-13 18:18:54,778 - hi -INFO - password is sent
+2022-01-13 18:19:00,194 - hi -INFO - loginclicked
+2022-01-13 18:19:05,700 - hi -INFO - Test fail
+2022-01-13 18:38:47,522 - hi -INFO - User is sent
+2022-01-13 18:38:47,620 - hi -INFO - password is sent
+2022-01-13 18:38:51,757 - hi -INFO - loginclicked
+2022-01-13 18:42:14,106 - hi -INFO - User is sent
+2022-01-13 18:42:14,183 - hi -INFO - password is sent
+2022-01-13 18:42:17,201 - hi -INFO - loginclicked
+2022-01-14 11:41:55,826 - hi -INFO - User is sent
+2022-01-14 11:41:56,073 - hi -INFO - password is sent
+2022-01-14 11:42:05,470 - hi -INFO - loginclicked
+2022-01-14 11:44:54,886 - hi -INFO - User is sent
+2022-01-14 11:44:55,105 - hi -INFO - password is sent
+2022-01-14 11:45:01,222 - hi -INFO - loginclicked
+2022-01-14 11:45:06,451 - hi -INFO - Test fail
+2022-01-14 11:45:23,842 - hi -INFO - User is sent
+2022-01-14 11:45:23,917 - hi -INFO - password is sent
+2022-01-14 11:45:26,138 - hi -INFO - loginclicked
+2022-01-14 11:45:31,255 - hi -INFO - Test fail
+2022-01-14 11:50:53,233 - hi -INFO - User is sent
+2022-01-14 11:50:53,397 - hi -INFO - password is sent
+2022-01-14 11:50:57,011 - hi -INFO - loginclicked
+2022-01-14 11:51:02,271 - hi -INFO - Test fail
+2022-01-14 11:51:21,388 - hi -INFO - User is sent
+2022-01-14 11:51:21,458 - hi -INFO - password is sent
+2022-01-14 11:51:24,975 - hi -INFO - loginclicked
+2022-01-14 11:51:30,167 - hi -INFO - Test fail
+2022-01-14 11:52:21,461 - hi -INFO - User is sent
+2022-01-14 11:52:21,695 - hi -INFO - password is sent
+2022-01-14 11:52:26,621 - hi -INFO - loginclicked
+2022-01-14 11:52:31,864 - hi -INFO - Test fail
+2022-01-14 11:52:47,669 - hi -INFO - User is sent
+2022-01-14 11:52:47,746 - hi -INFO - password is sent
+2022-01-14 11:52:49,876 - hi -INFO - loginclicked
+2022-01-14 11:52:55,033 - hi -INFO - Test fail
+2022-01-14 12:00:11,626 - hi -INFO - User is sent
+2022-01-14 12:00:11,807 - hi -INFO - password is sent
+2022-01-14 12:00:19,447 - hi -INFO - loginclicked
+2022-01-14 12:00:24,690 - hi -INFO - Test fail
+2022-01-14 12:00:41,166 - hi -INFO - User is sent
+2022-01-14 12:00:41,234 - hi -INFO - password is sent
+2022-01-14 12:00:44,382 - hi -INFO - loginclicked
+2022-01-14 12:00:49,546 - hi -INFO - Test fail
+2022-01-14 12:11:35,093 - hi -INFO - User is sent
+2022-01-14 12:11:35,281 - hi -INFO - password is sent
+2022-01-14 12:11:40,552 - hi -INFO - loginclicked
+2022-01-14 12:11:45,750 - hi -INFO - Test fail
+2022-01-14 12:12:04,599 - hi -INFO - User is sent
+2022-01-14 12:12:04,673 - hi -INFO - password is sent
+2022-01-14 12:12:09,113 - hi -INFO - loginclicked
+2022-01-14 12:12:14,349 - hi -INFO - Test fail
+2022-01-14 12:21:16,605 - hi -INFO - User is sent
+2022-01-14 12:21:16,813 - hi -INFO - password is sent
+2022-01-14 12:21:21,914 - hi -INFO - loginclicked
+2022-01-14 12:21:27,130 - hi -INFO - Test fail
+2022-01-14 12:21:44,823 - hi -INFO - User is sent
+2022-01-14 12:21:44,897 - hi -INFO - password is sent
+2022-01-14 12:21:47,656 - hi -INFO - loginclicked
+2022-01-14 12:21:52,872 - hi -INFO - Test fail
+2022-01-14 13:01:44,990 - hi -INFO - User is sent
+2022-01-14 13:01:45,168 - hi -INFO - password is sent
+2022-01-14 13:01:56,014 - hi -INFO - loginclicked
+2022-01-14 13:02:01,187 - hi -INFO - Test fail
+2022-01-14 13:02:21,975 - hi -INFO - User is sent
+2022-01-14 13:02:22,055 - hi -INFO - password is sent
+2022-01-14 13:02:28,467 - hi -INFO - loginclicked
+2022-01-14 13:02:33,665 - hi -INFO - Test fail
+2022-01-14 13:03:28,044 - hi -INFO - User is sent
+2022-01-14 13:03:28,224 - hi -INFO - password is sent
+2022-01-14 13:03:37,602 - hi -INFO - loginclicked
+2022-01-14 13:03:46,149 - hi -INFO - Test passed
+2022-01-14 13:04:03,504 - hi -INFO - User is sent
+2022-01-14 13:04:03,572 - hi -INFO - password is sent
+2022-01-14 13:04:08,106 - hi -INFO - loginclicked
+2022-01-14 13:04:14,756 - hi -INFO - Test passed
+2022-01-14 22:23:54,716 - hi -INFO - User is sent
+2022-01-14 22:23:54,921 - hi -INFO - password is sent
+2022-01-14 22:24:03,937 - hi -INFO - loginclicked
+2022-01-14 22:24:11,983 - hi -INFO - Test passed
+2022-01-14 22:24:36,399 - hi -INFO - User is sent
+2022-01-14 22:24:36,539 - hi -INFO - password is sent
+2022-01-14 22:24:44,860 - hi -INFO - loginclicked
+2022-01-14 22:24:51,769 - hi -INFO - Test passed
+2022-01-14 23:04:55,411 - hi -INFO - User is sent
+2022-01-14 23:04:55,579 - hi -INFO - password is sent
+2022-01-14 23:05:01,169 - hi -INFO - loginclicked
+2022-01-14 23:05:08,752 - hi -INFO - Test passed
+2022-01-14 23:05:26,433 - hi -INFO - User is sent
+2022-01-14 23:05:26,500 - hi -INFO - password is sent
+2022-01-14 23:05:31,376 - hi -INFO - loginclicked
+2022-01-14 23:05:39,208 - hi -INFO - Test passed
