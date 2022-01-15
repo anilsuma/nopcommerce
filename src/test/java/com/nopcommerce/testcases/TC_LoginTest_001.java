@@ -30,7 +30,7 @@ public class TC_LoginTest_001 extends  BaseClass{
 		logger.info("loginclicked");
 		Thread.sleep(5000);
 		
-		if(driver.getTitle().equals("Dashboard / nopCommerce administration")) {
+		if(driver.getTitle().equals("hhDashboard / nopCommerce administration")) {
 		
 			lp.clicklogout();
 			logger.info("Test passed");
